@@ -1,0 +1,164 @@
+Dados Covid-19 por Estado:
+ 
+********* AP **********
+Casos Confirmados: 30,763
+Mortes: 467
+Casos por 100k/Hab.: 3,637.45
+Taxa de Mortalidade: 1.52%
+
+********* AC **********
+Casos Confirmados: 15,465
+Mortes: 411
+Casos por 100k/Hab.: 1,753.53
+Taxa de Mortalidade: 2.66%
+
+********* AM **********
+Casos Confirmados: 81,318
+Mortes: 2,985
+Casos por 100k/Hab.: 1,962.02
+Taxa de Mortalidade: 3.67%
+
+********* AL **********
+Casos Confirmados: 43,191
+Mortes: 1,230
+Casos por 100k/Hab.: 1,294.17
+Taxa de Mortalidade: 2.85%
+
+********* DF **********
+Casos Confirmados: 65,677
+Mortes: 823
+Casos por 100k/Hab.: 2,178.15
+Taxa de Mortalidade: 1.25%
+
+********* CE **********
+Casos Confirmados: 131,324
+Mortes: 6,774
+Casos por 100k/Hab.: 1,438.05
+Taxa de Mortalidade: 5.16%
+
+********* ES **********
+Casos Confirmados: 60,009
+Mortes: 1,929
+Casos por 100k/Hab.: 1,493.26
+Taxa de Mortalidade: 3.21%
+
+********* GO **********
+Casos Confirmados: 34,627
+Mortes: 795
+Casos por 100k/Hab.: 493.38
+Taxa de Mortalidade: 2.30%
+
+********* BA **********
+Casos Confirmados: 98,319
+Mortes: 2,328
+Casos por 100k/Hab.: 661.05
+Taxa de Mortalidade: 2.37%
+
+********* MS **********
+Casos Confirmados: 11,671
+Mortes: 136
+Casos por 100k/Hab.: 419.97
+Taxa de Mortalidade: 1.17%
+
+********* MA **********
+Casos Confirmados: 95,323
+Mortes: 2,357
+Casos por 100k/Hab.: 1,347.29
+Taxa de Mortalidade: 2.47%
+
+********* MT **********
+Casos Confirmados: 25,264
+Mortes: 928
+Casos por 100k/Hab.: 725.05
+Taxa de Mortalidade: 3.67%
+
+********* PA **********
+Casos Confirmados: 122,674
+Mortes: 5,224
+Casos por 100k/Hab.: 1,425.97
+Taxa de Mortalidade: 4.26%
+
+********* PB **********
+Casos Confirmados: 57,614
+Mortes: 1,196
+Casos por 100k/Hab.: 1,433.85
+Taxa de Mortalidade: 2.08%
+
+********* MG **********
+Casos Confirmados: 66,864
+Mortes: 1,445
+Casos por 100k/Hab.: 315.86
+Taxa de Mortalidade: 2.16%
+
+********* PE **********
+Casos Confirmados: 68,767
+Mortes: 5,409
+Casos por 100k/Hab.: 719.54
+Taxa de Mortalidade: 7.87%
+
+********* PI **********
+Casos Confirmados: 31,269
+Mortes: 896
+Casos por 100k/Hab.: 955.30
+Taxa de Mortalidade: 2.87%
+
+********* RJ **********
+Casos Confirmados: 128,324
+Mortes: 11,115
+Casos por 100k/Hab.: 743.26
+Taxa de Mortalidade: 8.66%
+
+********* PR **********
+Casos Confirmados: 37,424
+Mortes: 931
+Casos por 100k/Hab.: 327.31
+Taxa de Mortalidade: 2.49%
+
+********* RR **********
+Casos Confirmados: 20,154
+Mortes: 393
+Casos por 100k/Hab.: 3,327.05
+Taxa de Mortalidade: 1.95%
+
+********* RO **********
+Casos Confirmados: 25,402
+Mortes: 589
+Casos por 100k/Hab.: 1,429.31
+Taxa de Mortalidade: 2.32%
+
+********* RN **********
+Casos Confirmados: 37,137
+Mortes: 1,351
+Casos por 100k/Hab.: 1,058.98
+Taxa de Mortalidade: 3.64%
+
+********* RS **********
+Casos Confirmados: 36,434
+Mortes: 870
+Casos por 100k/Hab.: 320.24
+Taxa de Mortalidade: 2.39%
+
+********* SE **********
+Casos Confirmados: 33,416
+Mortes: 901
+Casos por 100k/Hab.: 1,453.69
+Taxa de Mortalidade: 2.70%
+
+********* TO **********
+Casos Confirmados: 13,845
+Mortes: 240
+Casos por 100k/Hab.: 880.24
+Taxa de Mortalidade: 1.73%
+
+********* SC **********
+Casos Confirmados: 38,408
+Mortes: 447
+Casos por 100k/Hab.: 536.07
+Taxa de Mortalidade: 1.16%
+
+********* SP **********
+Casos Confirmados: 349,715
+Mortes: 17,118
+Casos por 100k/Hab.: 761.59
+Taxa de Mortalidade: 4.89%
+
