@@ -1,3 +1,5 @@
+Data de atualização: 02/09/2020
+
 Dados Covid-19 por cidade:
 
 {casos | mortes | por 100k/Hab | tx morte (%)}
